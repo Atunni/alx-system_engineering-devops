@@ -1,1 +1,1 @@
-This is my shell permissions tasks
+This respository contains solution to shell permissions task
